@@ -1,0 +1,11 @@
+C:\Users\Жансая\professional_networking\target\debug\deps\libark_serialize-6b573ad8b2c8bd1d.rmeta: C:\Users\Жансая\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ark-serialize-0.4.2\src\lib.rs C:\Users\Жансая\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ark-serialize-0.4.2\src\error.rs C:\Users\Жансая\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ark-serialize-0.4.2\src\flags.rs C:\Users\Жансая\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ark-serialize-0.4.2\src\impls.rs C:\Users\Жансая\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ark-serialize-0.4.2\src\../README.md
+
+C:\Users\Жансая\professional_networking\target\debug\deps\libark_serialize-6b573ad8b2c8bd1d.rlib: C:\Users\Жансая\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ark-serialize-0.4.2\src\lib.rs C:\Users\Жансая\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ark-serialize-0.4.2\src\error.rs C:\Users\Жансая\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ark-serialize-0.4.2\src\flags.rs C:\Users\Жансая\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ark-serialize-0.4.2\src\impls.rs C:\Users\Жансая\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ark-serialize-0.4.2\src\../README.md
+
+C:\Users\Жансая\professional_networking\target\debug\deps\ark_serialize-6b573ad8b2c8bd1d.d: C:\Users\Жансая\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ark-serialize-0.4.2\src\lib.rs C:\Users\Жансая\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ark-serialize-0.4.2\src\error.rs C:\Users\Жансая\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ark-serialize-0.4.2\src\flags.rs C:\Users\Жансая\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ark-serialize-0.4.2\src\impls.rs C:\Users\Жансая\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ark-serialize-0.4.2\src\../README.md
+
+C:\Users\Жансая\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ark-serialize-0.4.2\src\lib.rs:
+C:\Users\Жансая\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ark-serialize-0.4.2\src\error.rs:
+C:\Users\Жансая\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ark-serialize-0.4.2\src\flags.rs:
+C:\Users\Жансая\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ark-serialize-0.4.2\src\impls.rs:
+C:\Users\Жансая\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ark-serialize-0.4.2\src\../README.md:

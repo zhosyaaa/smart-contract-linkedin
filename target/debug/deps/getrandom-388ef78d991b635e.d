@@ -1,0 +1,11 @@
+C:\Users\Жансая\professional_networking\target\debug\deps\libgetrandom-388ef78d991b635e.rmeta: C:\Users\Жансая\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.1.16\src\lib.rs C:\Users\Жансая\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.1.16\src\error.rs C:\Users\Жансая\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.1.16\src\util.rs C:\Users\Жансая\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.1.16\src\error_impls.rs C:\Users\Жансая\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.1.16\src\windows.rs
+
+C:\Users\Жансая\professional_networking\target\debug\deps\libgetrandom-388ef78d991b635e.rlib: C:\Users\Жансая\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.1.16\src\lib.rs C:\Users\Жансая\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.1.16\src\error.rs C:\Users\Жансая\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.1.16\src\util.rs C:\Users\Жансая\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.1.16\src\error_impls.rs C:\Users\Жансая\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.1.16\src\windows.rs
+
+C:\Users\Жансая\professional_networking\target\debug\deps\getrandom-388ef78d991b635e.d: C:\Users\Жансая\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.1.16\src\lib.rs C:\Users\Жансая\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.1.16\src\error.rs C:\Users\Жансая\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.1.16\src\util.rs C:\Users\Жансая\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.1.16\src\error_impls.rs C:\Users\Жансая\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.1.16\src\windows.rs
+
+C:\Users\Жансая\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.1.16\src\lib.rs:
+C:\Users\Жансая\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.1.16\src\error.rs:
+C:\Users\Жансая\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.1.16\src\util.rs:
+C:\Users\Жансая\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.1.16\src\error_impls.rs:
+C:\Users\Жансая\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.1.16\src\windows.rs:
